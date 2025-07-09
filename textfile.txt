@@ -3,3 +3,7 @@ dir
 mkdir
 del
 xcopy 
+
+Linux
+ls
+mkdir
